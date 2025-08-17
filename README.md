@@ -1,7 +1,7 @@
 To-Do List Website
 
 This is a simple To-Do List web application built with HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as completed. This project helps users keep track of their tasks in a clean and easy-to-use interface.
-Live Demo
+
 
 You can view the live demo of the To-Do List website by visiting the following link:
 [Live Demo](https://srushtinb.github.io/To-Do/)
